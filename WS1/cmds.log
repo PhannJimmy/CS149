@@ -35,7 +35,7 @@
    35  git remote add origin https://github.com/PhannJimmy/CS149.git
    36  git config --global user.email "Phannnjimmy@gmail.com"
    37  git config --global user.name "Jimmy Phan"
-   38* it remote add origin https://github.com/PhannJimmy/CS149.git
+   38  git remote add origin https://github.com/PhannJimmy/CS149.git
    39  mkdir WS1
    40  cd WS1
    41  ls
